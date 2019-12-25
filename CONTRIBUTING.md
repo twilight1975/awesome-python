@@ -17,3 +17,5 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+Bitte sende eine E-Mail an lieblings_kollege@firma-com
+
